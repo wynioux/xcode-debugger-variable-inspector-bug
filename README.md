@@ -1,7 +1,7 @@
 # xcode-debugger-variable-inspector-bug
 Minimal project that showcases a bug in the Xcode Debugger Variable Inspector
 
-# Bug Report
+# Bug Report [#63651](https://github.com/apple/swift/issues/63651)
 
 **Description:**
 
